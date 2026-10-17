@@ -285,4 +285,4 @@ Every MCP tool corresponds to a REST endpoint at `/api/...` (see the project REA
 - **Direct-commit pushback**: `push_to_github` is PR-mode only over MCP. Direct commits to a branch are intentionally web-UI-only — branch-protection enforcement is the repo owner's call.
 - **Editing comments authored by other users**: same require-mine guard as the REST API. `delete_comment` and `patch_anchor` work only on comments your token wrote.
 
-For project state, latest changes, and integration ideas, see the project README at <https://github.com/jonradoff/markupmarkdown>.
+For project state, latest changes, and integration ideas, see the project README at <https://github.com/metavert-io/markupmarkdown>.

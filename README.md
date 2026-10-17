@@ -1,7 +1,7 @@
 # markupmarkdown
 
-[![CI](https://github.com/jonradoff/markupmarkdown/actions/workflows/ci.yml/badge.svg)](https://github.com/jonradoff/markupmarkdown/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/jonradoff/markupmarkdown/branch/master/graph/badge.svg)](https://codecov.io/gh/jonradoff/markupmarkdown)
+[![CI](https://github.com/metavert-io/markupmarkdown/actions/workflows/ci.yml/badge.svg)](https://github.com/metavert-io/markupmarkdown/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/metavert-io/markupmarkdown/branch/master/graph/badge.svg)](https://codecov.io/gh/metavert-io/markupmarkdown)
 [![version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md)
 
 **Google Docs for markdown — comment on, edit, and ship `.md` files like it's a real document.** Paste a URL, drag-select text, leave a margin comment. Your teammates see it in real time. Edit the raw markdown in a native CodeMirror editor with a formatting toolbar, find-and-replace, and live preview. Resolve threads, then hand them to Claude for an AI-revised version — or push your edits straight back to GitHub as a pull request or direct commit. Agents join the same review through an MCP server: they read what humans read, leave threads humans approve, and (with explicit human sign-off) apply the resolved feedback as a new revision.

@@ -749,7 +749,7 @@ function MarketingSections() {
         <p className="text-muted">
           Everything is{" "}
           <a
-            href="https://github.com/jonradoff/markupmarkdown"
+            href="https://github.com/metavert-io/markupmarkdown"
             className="text-accent hover:underline"
           >
             MIT-licensed on GitHub

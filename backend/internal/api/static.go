@@ -242,7 +242,7 @@ func homepageMeta(siteURL string) *ogMeta {
       <p>Markupmarkdown ships a Model Context Protocol (MCP) server so AI agents read what humans read, leave threads humans can approve, and apply resolved feedback as new revisions — with explicit human sign-off.</p>
       <h2>Open source, self-hosted, bring your own AI key</h2>
       <p>One Go binary, a React SPA, MongoDB. Deploys to a single Fly.io machine. Anthropic API key stored AES-256-GCM encrypted at rest, deletable any time.</p>
-      <p><a href="https://github.com/jonradoff/markupmarkdown">GitHub repository</a> · <a href="/SKILL.md">Agent integration guide</a></p>`
+      <p><a href="https://github.com/metavert-io/markupmarkdown">GitHub repository</a> · <a href="/SKILL.md">Agent integration guide</a></p>`
 	return &ogMeta{
 		Title:       title,
 		Description: desc,
